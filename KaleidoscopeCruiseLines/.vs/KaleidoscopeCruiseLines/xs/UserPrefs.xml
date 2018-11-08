@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{F0FA326F-9DAA-45AE-9A9E-69E65C02DEE3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="KaleidoscopeCruiseLines/Models/DatabaseContext.cs">
+    <Files>
+      <File FileName="KaleidoscopeCruiseLines/Controllers/PassengersController.cs" Line="28" Column="9" />
+      <File FileName="KaleidoscopeCruiseLines/Services/PassengerService.cs" Line="22" Column="52" />
+      <File FileName="Test/Controllers/PassengersControllerTests.cs" Line="48" Column="13" />
+      <File FileName="KaleidoscopeCruiseLines/Models/DatabaseContext.cs" Line="28" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.KaleidoscopeCruiseLines PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
